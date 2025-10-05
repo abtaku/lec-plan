@@ -28,6 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <p className="p-4 pt-2 text-blue-500">This is a blue paragraph.</p>
     </>
   );
 }
